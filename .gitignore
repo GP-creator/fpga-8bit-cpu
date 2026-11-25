@@ -1,0 +1,11 @@
+# build / sim outputs
+*.vvp
+*.vcd
+verify/work/
+__pycache__/
+*.pyc
+# Vivado project files
+vivado/*
+!vivado/.gitkeep
+*.jou
+*.log
